@@ -1,6 +1,7 @@
 # TODO List Demo App ✅
 
-Deploy Link : https://vercel.com/bansivachhanis-projects/todo-list-app/AwDtjwWHGKVw8pN2cPCU4LEFpmbL
+Deploy Link : 
+https://todo-list-app-alpha-lyart.vercel.app/
 
 A simple and clean To-Do list application built with **React**.  
 Users can add, edit, delete, and update task status (Pending / Successful).
